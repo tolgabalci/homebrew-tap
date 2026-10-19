@@ -1,6 +1,6 @@
 cask "tinysa-screen" do
-  version "1.1.0"
-  sha256 "8750c6975e91965cd5c4c9d08a13cff1c797a94ef318b14e51b6b3085e4bfe32"
+  version "1.1.1"
+  sha256 "fdf0e4f356d1708fc938ed1e15a35997c5384e9c1496a3d9d18398b46d9df293"
 
   url "https://github.com/tolgabalci/tinysa-screen/releases/download/v#{version}/tinySA-Screen-#{version}.zip"
   name "tinySA Screen"
